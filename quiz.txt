@@ -1,16 +1,18 @@
 David:
 Är avokado en frukt?
-Ja.
+Kim: - Nej det tror jag inte.
+David: Ja.
 
 Kim:
 Vad heter du i mellannamn?
+- Madeleine.
 
 Camilla:
-
-Fråga: Hur många människor bor i Sverige?
-Svar: 10.49 miljoner.
+Hur många människor bor i Sverige?
+Kim: 10.234.567
+David: 10.49 miljoner.
 
 Magnus:
 När föddes Jimi Hendrix?
-27 november 1942.
-
+Kim: 3 maj 1956.
+David: 27 november 1942.
