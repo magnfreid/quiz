@@ -1,6 +1,7 @@
 David:
 Är avokado en frukt?
-- Nej det tror jag inte.
+Kim: - Nej det tror jag inte.
+David: Ja.
 
 Kim:
 Vad heter du i mellannamn?
@@ -8,8 +9,10 @@ Vad heter du i mellannamn?
 
 Camilla:
 Hur många människor bor i Sverige?
-- 10.234.567
+Kim: 10.234.567
+David: 10.49 miljoner.
 
 Magnus:
 När föddes Jimi Hendrix?
-- 3 maj 1956.
+Kim: 3 maj 1956.
+David: 27 november 1942.
