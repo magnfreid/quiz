@@ -1,8 +1,10 @@
 David:
 Är avokado en frukt?
+Svar: Ja
 
 Kim:
 Vad heter du i mellannamn?
+Svar: Karolina Viola
 
 Camilla:
 Fråga: Hur många människor bor i Sverige?
@@ -10,3 +12,4 @@ Svar: 10.49 miljoner.
 
 Magnus:
 När föddes Jimi Hendrix?
+1942.
