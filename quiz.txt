@@ -1,2 +1,10 @@
-Kims fråga:
-- Vad heter du i mellannamn?
+
+Kim:
+Vad heter du i mellannamn?
+
+Camilla:
+Hur många människor bor i Sverige?
+
+Magnus:
+När föddes Jimi Hendrix?
+
