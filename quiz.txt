@@ -5,7 +5,8 @@ Kim:
 Vad heter du i mellannamn?
 
 Camilla:
-Hur många människor bor i Sverige?
+Fråga: Hur många människor bor i Sverige?
+Svar: 10.49 miljoner.
 
 Magnus:
 När föddes Jimi Hendrix?
