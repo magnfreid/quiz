@@ -9,3 +9,5 @@ Hur många människor bor i Sverige?
 
 Magnus:
 När föddes Jimi Hendrix?
+
+Svar: 27 november 1942
